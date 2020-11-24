@@ -117,7 +117,9 @@ article {
 }
 
 .form-control {
-    background-color: #36405e !important;
+    /* background-color: #36405e !important; */
+    /* background-color: #202E3A !important; */
+    background-color: #15202B !important;
     color: var(--muted-color) !important;
     box-shadow: 0 0 0 0 !important;
     border-radius: 20px !important;
